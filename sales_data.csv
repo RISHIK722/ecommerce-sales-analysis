@@ -1,0 +1,13 @@
+Order_ID,Order_Date,Category,Product,Quantity,Unit_Price,Total_Sales,Payment_Method,Region
+1001,2026-01-05,Electronics,Wireless Earbuds,2,75.00,150.00,Credit Card,North
+1002,2026-01-08,Home & Kitchen,Coffee Maker,1,120.00,120.00,UPI,South
+1003,2026-01-12,Apparel,Running Shoes,1,90.00,90.00,Credit Card,West
+1004,2026-01-15,Electronics,Smart Watch,1,200.00,200.00,UPI,North
+1005,2026-01-19,Apparel,Winter Jacket,2,110.00,220.00,Debit Card,East
+1006,2026-01-22,Home & Kitchen,Air Fryer,1,150.00,150.00,Credit Card,South
+1007,2026-02-02,Electronics,Bluetooth Speaker,3,60.00,180.00,UPI,West
+1008,2026-02-06,Apparel,Denim Jeans,2,55.00,110.00,UPI,North
+1009,2026-02-10,Electronics,Laptop Stand,4,35.00,140.00,Credit Card,East
+1010,2026-02-14,Home & Kitchen,Blender,2,65.00,130.00,Debit Card,West
+1011,2026-02-18,Electronics,Wireless Earbuds,2,75.00,150.00,UPI,South
+1012,2026-02-25,Apparel,Running Shoes,1,90.00,90.00,Credit Card,North
